@@ -1,7 +1,7 @@
 const mineflayer = require('mineflayer');
 
 const bot = mineflayer.createBot({
-  host: 'unnamed-smp.aternos.me:26318',
+  host: '185.107.192.190:26318',
   username: 'afk',
   auth: 'offline'
 });
